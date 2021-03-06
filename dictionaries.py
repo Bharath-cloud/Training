@@ -32,3 +32,6 @@ d = {"name": "Surya", "age": 22, "college": "some college"}
 # del d["name"]
 # print(d)
 # print(dir(d))
+
+
+Dictionary (Bharath)
